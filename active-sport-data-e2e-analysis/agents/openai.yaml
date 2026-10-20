@@ -1,0 +1,4 @@
+interface:
+  display_name: "Active Sportdata E2E Analysis"
+  short_description: "追踪算法到 APP 的运动数据、时间戳和记录消费链路"
+  default_prompt: "请使用 $active-sport-data-e2e-analysis 分析这笔运动数据问题，建立跨算法、Engine、Service、记录协议和 APP 的统一时间轴并输出证据化结论。"
